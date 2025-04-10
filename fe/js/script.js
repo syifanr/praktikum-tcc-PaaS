@@ -1,3 +1,5 @@
+const BASE_URL = "https://notes-syifa194-797713225706.us-central1.run.app";
+
 // Ngambil elemen form
 const formulir = document.querySelector("form");
 
