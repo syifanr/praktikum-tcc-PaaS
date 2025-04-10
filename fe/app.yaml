@@ -7,6 +7,12 @@ handlers:
     static_files: index.html
     upload: index.html
 
+  # Serve file js
+  - url: /js/(.*)
+    static_files: js/\1
+    upload:
+      js/(.*)
+
   - url: /(.*)
     static_files: \1
     upload: (.*)
