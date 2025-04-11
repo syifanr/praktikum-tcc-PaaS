@@ -1,1 +1,1 @@
-const BASE_URL = "";
+const BASE_URL = "https://notes-syifa194-797713225706.us-central1.run.app/";
